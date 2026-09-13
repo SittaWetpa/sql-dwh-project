@@ -17,3 +17,15 @@ Develop a modern, centralized data warehouse using SQL Server to integrate siloe
 * **Integration & Modeling:** Consolidate disparate sources into an optimized, user-friendly data model engineered for high-performance analytical queries.
 * **Scope & Historization:** Deliver a current-state analytical layer; historical tracking (SCD) is out of scope.
 * **Documentation & Governance:** Maintain comprehensive data model documentation to align business stakeholders and technical teams.
+
+## 👨‍💻 About Me
+
+Hi there! I'm **Sitta Wetpasoed**, a KMUTT student studying a technical field related to Computer Science in Thailand. 
+
+I am passionate about Data Engineering, specializing in SQL data warehousing, ETL/ELT pipeline design, database architecture, and building scalable data solutions.
+
+- **GitHub:** [@SittaWetpa](https://github.com/SittaWetpa)
+- **Interests:** Data Warehousing, Data Engineering.
+
+---
+*Feel free to reach out or check out my other repositories if you find my projects helpful!*
